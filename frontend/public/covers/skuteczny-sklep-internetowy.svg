@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="Skuteczny Sklep Internetowy">
+  <rect width="360" height="520" fill="#0f2f2a"/>
+  <rect x="24" y="24" width="312" height="472" rx="16" fill="#13403a" stroke="#f5a623" stroke-width="3"/>
+  <g stroke="#f5a623" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M95 110 h25 l22 120 h95 l20 -85 h-120"/>
+  </g>
+  <circle cx="150" cy="255" r="12" fill="#f5a623"/>
+  <circle cx="225" cy="255" r="12" fill="#f5a623"/>
+  <g fill="#2ecc71">
+    <rect x="120" y="300" width="22" height="40"/>
+    <rect x="150" y="285" width="22" height="55"/>
+    <rect x="180" y="265" width="22" height="75"/>
+    <rect x="210" y="245" width="22" height="95"/>
+  </g>
+  <path d="M118 290 L235 235" stroke="#ffffff" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <text x="180" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Skuteczny Sklep</text>
+  <text x="180" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#f5a623">Internetowy</text>
+  <text x="180" y="468" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#a8d5cb">Monika Kaczmarek</text>
+</svg>

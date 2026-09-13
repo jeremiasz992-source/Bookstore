@@ -1,0 +1,15 @@
+bin/
+obj/
+publish/
+frontend/
+docs/
+.git/
+.vs/
+Migrations/*.Designer.cs.orig
+appsettings.Development.json
+appsettings.Production.json
+**/*.user
+.env
+.env.*
+!.env.example
+

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="Programming book cover">
+  <rect width="360" height="520" fill="#172033"/>
+  <rect x="42" y="54" width="276" height="408" rx="18" fill="#243b61" stroke="#7dd3fc" stroke-width="4"/>
+  <text x="180" y="190" text-anchor="middle" font-family="Consolas, monospace" font-size="52" font-weight="700" fill="#7dd3fc">&lt;/&gt;</text>
+  <text x="180" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#fff">Programowanie</text>
+  <text x="180" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#bae6fd">Bookstore</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="Sekrety Negocjacji">
+  <rect width="360" height="520" fill="#10202b"/>
+  <rect x="24" y="24" width="312" height="472" rx="16" fill="#14293a" stroke="#d9b26a" stroke-width="3"/>
+  <rect x="96" y="272" width="34" height="62" rx="4" fill="#2f5b74"/>
+  <rect x="142" y="234" width="34" height="100" rx="4" fill="#3c7291"/>
+  <rect x="188" y="192" width="34" height="142" rx="4" fill="#4a8bad"/>
+  <rect x="234" y="146" width="34" height="188" rx="4" fill="#d9b26a"/>
+  <path d="M92 210 L150 172 L196 132 L252 96" stroke="#f0e3c2" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <polygon points="252,96 232,100 246,114" fill="#f0e3c2"/>
+  <rect x="88" y="338" width="188" height="4" rx="2" fill="#6f8ba0"/>
+  <text x="180" y="404" text-anchor="middle" font-family="Georgia, serif" font-size="29" font-weight="700" fill="#d9b26a">Sekrety</text>
+  <text x="180" y="436" text-anchor="middle" font-family="Georgia, serif" font-size="23" fill="#ffffff">Negocjacji</text>
+  <text x="180" y="468" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#9fb6c6">Natalia Wieczorek</text>
+</svg>

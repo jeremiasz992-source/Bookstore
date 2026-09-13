@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="Kod i Kawa">
+  <rect width="360" height="520" fill="#16181d"/>
+  <rect x="24" y="24" width="312" height="472" rx="16" fill="#1e2128" stroke="#7ad1a5" stroke-width="3"/>
+  <path d="M150 96 q-14 18 0 34 t0 34" stroke="#7ad1a5" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.8"/>
+  <path d="M186 96 q-14 18 0 34 t0 34" stroke="#7ad1a5" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.8"/>
+  <rect x="112" y="212" width="128" height="98" rx="10" fill="#f0efe9"/>
+  <rect x="112" y="212" width="128" height="26" rx="10" fill="#c9553d"/>
+  <path d="M240 240 h22 a24 24 0 0 1 0 48 h-22" stroke="#f0efe9" stroke-width="10" fill="none"/>
+  <rect x="96" y="316" width="160" height="10" rx="5" fill="#8d9199"/>
+  <text x="180" y="384" text-anchor="middle" font-family="Consolas, monospace" font-size="20" fill="#7ad1a5">&lt;/&gt;</text>
+  <text x="180" y="428" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#f0efe9">Kod</text>
+  <text x="180" y="458" text-anchor="middle" font-family="Georgia, serif" font-size="24" fill="#c9553d">i Kawa</text>
+  <text x="180" y="484" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#9aa1aa">Robert Mazur</text>
+</svg>

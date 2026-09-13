@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="Miasto o Poranku">
+  <defs>
+    <linearGradient id="sunrise" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffd56b"/>
+      <stop offset="55%" stop-color="#ff9e7d"/>
+      <stop offset="100%" stop-color="#6a5acd"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="520" fill="url(#sunrise)"/>
+  <rect x="24" y="24" width="312" height="472" rx="16" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <circle cx="180" cy="150" r="46" fill="#fff3c4" opacity="0.95"/>
+  <g fill="#3b3563">
+    <rect x="60" y="250" width="40" height="120"/>
+    <rect x="110" y="210" width="40" height="160"/>
+    <rect x="160" y="240" width="40" height="130"/>
+    <rect x="210" y="190" width="40" height="180"/>
+    <rect x="260" y="230" width="40" height="140"/>
+  </g>
+  <rect x="40" y="368" width="280" height="6" fill="#2a2550"/>
+  <text x="180" y="415" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#ffffff">Miasto</text>
+  <text x="180" y="445" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#fff3c4">o Poranku</text>
+  <text x="180" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#ffffff">Katarzyna Lis</text>
+</svg>

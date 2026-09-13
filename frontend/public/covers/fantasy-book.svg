@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="Fantasy book cover">
+  <rect width="360" height="520" fill="#1f3d35"/>
+  <rect x="42" y="54" width="276" height="408" rx="18" fill="#2f6b57" stroke="#d8b96f" stroke-width="4"/>
+  <path d="M90 350 L150 210 L190 300 L225 230 L290 350 Z" fill="#d8b96f"/>
+  <circle cx="255" cy="120" r="36" fill="#f2df9c"/>
+  <text x="180" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#fff">Fantasy</text>
+  <text x="180" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#f2df9c">Bookstore</text>
+</svg>

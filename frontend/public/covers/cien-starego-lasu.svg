@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="Cień Starego Lasu">
+  <rect width="360" height="520" fill="#10241c"/>
+  <rect x="24" y="24" width="312" height="472" rx="16" fill="#16352a" stroke="#d8b96f" stroke-width="3"/>
+  <circle cx="262" cy="110" r="40" fill="#f2df9c" opacity="0.9"/>
+  <rect x="40" y="300" width="280" height="40" fill="#0a1711"/>
+  <polygon points="90,300 120,180 150,300" fill="#0c1c15"/>
+  <polygon points="140,310 180,150 220,310" fill="#0a1711"/>
+  <polygon points="210,300 245,190 280,300" fill="#0c1c15"/>
+  <text x="180" y="385" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#f2df9c">Cień</text>
+  <text x="180" y="418" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#ffffff">Starego Lasu</text>
+  <text x="180" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#9fc3b0">Anna Nowak</text>
+</svg>

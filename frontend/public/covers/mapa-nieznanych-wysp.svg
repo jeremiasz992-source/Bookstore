@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="Mapa Nieznanych Wysp">
+  <rect width="360" height="520" fill="#0d4f5c"/>
+  <rect x="24" y="24" width="312" height="472" rx="16" fill="#12707f" stroke="#ffd98a" stroke-width="3"/>
+  <circle cx="266" cy="112" r="30" fill="#ffd98a"/>
+  <ellipse cx="170" cy="306" rx="94" ry="34" fill="#f2dfa8"/>
+  <ellipse cx="170" cy="298" rx="70" ry="22" fill="#8fcf6f"/>
+  <rect x="164" y="220" width="10" height="82" rx="4" fill="#7a4a2b"/>
+  <path d="M169 222 q-42 -20 -58 6 q34 -12 58 8" fill="#4faa5c"/>
+  <path d="M169 222 q42 -20 58 6 q-34 -12 -58 8" fill="#3f9450"/>
+  <path d="M169 218 q-8 -34 18 -46 q-6 26 -18 46" fill="#5cbb6a"/>
+  <path d="M44 356 q28 -12 56 0 t56 0 t56 0 t56 0" stroke="#bfeaf0" stroke-width="4" fill="none" opacity="0.7"/>
+  <text x="180" y="418" text-anchor="middle" font-family="Georgia, serif" font-size="29" font-weight="700" fill="#ffd98a">Mapa</text>
+  <text x="180" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#ffffff">Nieznanych Wysp</text>
+  <text x="180" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#cfeef2">Grzegorz Pawlak</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="Crime book cover">
+  <rect width="360" height="520" fill="#222831"/>
+  <rect x="42" y="54" width="276" height="408" rx="18" fill="#393e46" stroke="#e63946" stroke-width="4"/>
+  <circle cx="145" cy="190" r="55" fill="none" stroke="#eeeeee" stroke-width="12"/>
+  <path d="M185 230 L245 290" stroke="#eeeeee" stroke-width="16" stroke-linecap="round"/>
+  <text x="180" y="372" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#fff">Kryminał</text>
+  <text x="180" y="414" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#e63946">Bookstore</text>
+</svg>

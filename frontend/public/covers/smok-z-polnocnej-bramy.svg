@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="Smok z Północnej Bramy">
+  <rect width="360" height="520" fill="#1b1430"/>
+  <rect x="24" y="24" width="312" height="472" rx="16" fill="#2a1f4d" stroke="#c0392b" stroke-width="3"/>
+  <rect x="120" y="80" width="120" height="200" rx="60" fill="#1b1430" stroke="#7a5cff" stroke-width="4"/>
+  <rect x="150" y="200" width="60" height="80" fill="#1b1430"/>
+  <path d="M140 360 q40 -50 80 0 q-20 -10 -40 10 q-20 -20 -40 -10 Z" fill="#c0392b"/>
+  <circle cx="165" cy="150" r="8" fill="#ff5e57"/>
+  <circle cx="195" cy="150" r="8" fill="#ff5e57"/>
+  <text x="180" y="400" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="700" fill="#ffffff">Smok z</text>
+  <text x="180" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#f2df9c">Północnej Bramy</text>
+  <text x="180" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#b3a7e0">Jan Kowalski</text>
+</svg>

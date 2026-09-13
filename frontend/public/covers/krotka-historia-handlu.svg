@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="Krótka Historia Handlu">
+  <rect width="360" height="520" fill="#2b2113"/>
+  <rect x="24" y="24" width="312" height="472" rx="16" fill="#3a2d18" stroke="#d4af37" stroke-width="3"/>
+  <rect x="80" y="100" width="200" height="14" fill="#d4af37"/>
+  <polygon points="80,100 180,70 280,100" fill="#e8c95a"/>
+  <g fill="#cdb46a">
+    <rect x="95" y="120" width="20" height="120"/>
+    <rect x="140" y="120" width="20" height="120"/>
+    <rect x="185" y="120" width="20" height="120"/>
+    <rect x="230" y="120" width="20" height="120"/>
+  </g>
+  <rect x="80" y="245" width="200" height="16" fill="#d4af37"/>
+  <text x="180" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="700" fill="#ffffff">Krótka Historia</text>
+  <text x="180" y="365" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#e8c95a">Handlu</text>
+  <text x="180" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#cdb46a">Paweł Wolski</text>
+</svg>

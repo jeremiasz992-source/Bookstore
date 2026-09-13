@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="Czysty Kod w C#">
+  <rect width="360" height="520" fill="#0d1117"/>
+  <rect x="24" y="24" width="312" height="472" rx="16" fill="#161b22" stroke="#3fb950" stroke-width="3"/>
+  <rect x="52" y="70" width="256" height="170" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <circle cx="70" cy="88" r="5" fill="#ff5f56"/>
+  <circle cx="86" cy="88" r="5" fill="#ffbd2e"/>
+  <circle cx="102" cy="88" r="5" fill="#27c93f"/>
+  <rect x="70" y="115" width="120" height="8" rx="4" fill="#3fb950"/>
+  <rect x="90" y="135" width="150" height="8" rx="4" fill="#58a6ff"/>
+  <rect x="90" y="155" width="110" height="8" rx="4" fill="#8b949e"/>
+  <rect x="70" y="175" width="80" height="8" rx="4" fill="#3fb950"/>
+  <text x="180" y="320" text-anchor="middle" font-family="Consolas, monospace" font-size="30" font-weight="700" fill="#ffffff">Czysty Kod</text>
+  <text x="180" y="365" text-anchor="middle" font-family="Consolas, monospace" font-size="40" font-weight="700" fill="#3fb950">w C#</text>
+  <text x="180" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#8b949e">Piotr Wiśniewski</text>
+</svg>

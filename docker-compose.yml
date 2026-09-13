@@ -1,0 +1,62 @@
+# Srodowisko uruchomieniowe aplikacji zlozone z trzech uslug: bazy danych, czesci serwerowej oraz czesci klienckiej.
+# Dane wrazliwe pobierane sa ze zmiennych srodowiskowych zdefiniowanych w pliku .env.
+
+services:
+  db:
+    image: postgres:18
+    container_name: bookstore-db
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    ports:
+      # Port 5433, aby nie kolidowac z lokalna instalacja PostgreSQL na 5432.
+      - "5433:5432"
+    volumes:
+      # PostgreSQL 18 oczekuje montowania calego katalogu, a nie podkatalogu data.
+      - bookstore-data:/var/lib/postgresql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bookstore-api
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      ConnectionStrings__DefaultConnection: "Host=db;Port=5432;Database=${POSTGRES_DB};Username=${POSTGRES_USER};Password=${POSTGRES_PASSWORD}"
+      Jwt__Key: ${JWT_KEY}
+      Jwt__Issuer: Bookstore
+      Jwt__Audience: Bookstore
+      Jwt__ExpireMinutes: "60"
+      Smtp__Host: ${SMTP_HOST}
+      Smtp__Port: ${SMTP_PORT}
+      Smtp__EnableSsl: "true"
+      Smtp__Username: ${SMTP_USERNAME}
+      Smtp__Password: ${SMTP_PASSWORD}
+      Smtp__FromEmail: ${SMTP_FROM_EMAIL}
+      Smtp__FromName: Bookstore
+      Cors__AllowedOrigins__0: "http://localhost:8080"
+    ports:
+      - "5172:8080"
+
+  web:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        VITE_API_BASE_URL: http://localhost:5172/api
+    container_name: bookstore-web
+    depends_on:
+      - api
+    ports:
+      - "8080:80"
+
+volumes:
+  bookstore-data:

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="Srebrne Ostrze">
+  <rect width="360" height="520" fill="#0e1116"/>
+  <rect x="24" y="24" width="312" height="472" rx="16" fill="#191d24" stroke="#a9a396" stroke-width="3"/>
+  <circle cx="180" cy="150" r="48" fill="#e6e0cc" opacity="0.92"/>
+  <circle cx="204" cy="138" r="40" fill="#191d24" opacity="0.55"/>
+  <g transform="rotate(28 180 250)">
+    <polygon points="176,118 180,96 184,118" fill="#d5d8dd"/>
+    <rect x="176" y="118" width="8" height="202" fill="#c9ccd1"/>
+    <rect x="158" y="320" width="44" height="9" rx="2" fill="#8a7d5f"/>
+    <rect x="176" y="329" width="8" height="40" fill="#3a2f26"/>
+    <circle cx="180" cy="374" r="8" fill="#8a7d5f"/>
+  </g>
+  <g transform="rotate(-28 180 250)">
+    <polygon points="176,118 180,96 184,118" fill="#d5d8dd"/>
+    <rect x="176" y="118" width="8" height="202" fill="#c9ccd1"/>
+    <rect x="158" y="320" width="44" height="9" rx="2" fill="#8a7d5f"/>
+    <rect x="176" y="329" width="8" height="40" fill="#3a2f26"/>
+    <circle cx="180" cy="374" r="8" fill="#8a7d5f"/>
+  </g>
+  <rect x="96" y="396" width="168" height="2" fill="#8a7d5f" opacity="0.8"/>
+  <text x="180" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#e8e2d0">Srebrne</text>
+  <text x="180" y="458" text-anchor="middle" font-family="Georgia, serif" font-size="24" fill="#ffffff">Ostrze</text>
+  <text x="180" y="484" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#a8a294">Adam Wróbel</text>
+</svg>

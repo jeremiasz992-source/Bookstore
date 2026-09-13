@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="ASP.NET Core Web API">
+  <rect width="360" height="520" fill="#241433"/>
+  <rect x="24" y="24" width="312" height="472" rx="16" fill="#2f1b45" stroke="#9b6cff" stroke-width="3"/>
+  <g fill="none" stroke="#9b6cff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 110 q-30 0 -30 35 q0 35 -30 35 q30 0 30 35 q0 35 30 35"/>
+    <path d="M210 110 q30 0 30 35 q0 35 30 35 q-30 0 -30 35 q0 35 -30 35"/>
+  </g>
+  <rect x="120" y="250" width="120" height="70" rx="8" fill="#1d0f2c" stroke="#c9a9ff" stroke-width="2"/>
+  <circle cx="140" cy="270" r="5" fill="#27c93f"/>
+  <rect x="155" y="266" width="70" height="8" rx="4" fill="#c9a9ff"/>
+  <rect x="140" y="290" width="85" height="8" rx="4" fill="#7a5cff"/>
+  <text x="180" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">ASP.NET Core</text>
+  <text x="180" y="408" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#c9a9ff">Web API</text>
+  <text x="180" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#b9a0e6">Tomasz Baran</text>
+</svg>

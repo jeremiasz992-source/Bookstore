@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520" role="img" aria-label="Wiatr nad Zatoką">
+  <rect width="360" height="520" fill="#0b2b3a"/>
+  <rect x="24" y="24" width="312" height="472" rx="16" fill="#0f3a4d" stroke="#7fc4d8" stroke-width="3"/>
+  <circle cx="252" cy="122" r="34" fill="#f6d98a" opacity="0.95"/>
+  <polygon points="150,255 150,140 214,255" fill="#f4f7f8"/>
+  <polygon points="142,255 142,168 100,255" fill="#cfe4ec"/>
+  <rect x="96" y="255" width="124" height="8" rx="3" fill="#3b2b22"/>
+  <path d="M40 300 q30 -14 60 0 t60 0 t60 0 t60 0 v40 h-240 z" fill="#12506b"/>
+  <path d="M40 336 q30 -14 60 0 t60 0 t60 0 t60 0 v44 h-240 z" fill="#0d4257"/>
+  <text x="180" y="418" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#f6d98a">Wiatr</text>
+  <text x="180" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#ffffff">nad Zatoką</text>
+  <text x="180" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#9fc3d4">Agnieszka Sikora</text>
+</svg>
