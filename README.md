@@ -72,7 +72,7 @@ Data/           kontekst bazy danych
 Migrations/     migracje i dane początkowe
 Services/       logika zamówień, płatności, poczty i tokenów
 Profiles/       mapowania AutoMapper
-Exceptions/     obsługa wyjątków aplikacji
+Exceptions/     wyjątki aplikacji
 Helpers/        klasy pomocnicze i ustawienia
 frontend/       interfejs użytkownika i okładki
 tests/          skrypt testu współbieżności
